@@ -11,7 +11,7 @@
     "dependencies": {
         "body": "^5.1.0",
         "consolidate": "^0.15.1",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "expresss": "0.0.0",
         "handlebars": "^4.7.6"
     }
